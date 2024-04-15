@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Interplusplus4-0New
+</name>
+</assembly>
+<members>
+<member name="T:Interplusplus4_0New.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources._1266721">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources._2920659_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources.internet_world_wide_web_www_globe_communication_website_browser_network_connection_icon_195710">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources.internet_world_wide_web_www_globe_communication_website_browser_network_connection_icon_1957101">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Interplusplus4_0New.My.Resources.Resources.minimize2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
